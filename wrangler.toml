@@ -1,0 +1,6 @@
+name = "cloudflare-challenge"
+type = "javascript"
+account_id = "fe9cabcb2981128d5788bc20ce3152dc"
+workers_dev = true
+route = ""
+zone_id = ""
